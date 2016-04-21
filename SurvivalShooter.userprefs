@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Roguelike2D\Assets\Scripts\GameManager.cs">
+    <Files>
+      <File FileName="..\Roguelike2D\Assets\Scripts\BoardManager.cs" Line="83" Column="50" />
+      <File FileName="..\Roguelike2D\Assets\Scripts\GameManager.cs" Line="19" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
